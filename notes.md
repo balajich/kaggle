@@ -12,3 +12,6 @@
     pip install keras
     pip install pandas
     pip install pillow
+    
+# Kaggle submission commands
+    kaggle competitions submit -c titanic -f submission.csv -m "Message"
